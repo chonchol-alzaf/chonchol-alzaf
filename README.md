@@ -1,4 +1,3 @@
-<img src="https://i.ibb.co/HVvcpz3/nafischonchol-11zon-3.jpg" alt="Nafis Chonchol" />
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Nafis Chonchol,</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(Laravel);Experienced+Backend+Developer;Skilled+Backend+Developer;Passionate+Laravel+Developer" alt="Typing SVG" /></h2>
